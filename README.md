@@ -26,7 +26,7 @@ Currently I'm Data Engineeer in the Bank.
     <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,linux" />
   </a>
 </p>
-## Contact Me
+
 [![Telegram][telegram-img]][telegram]
 [![Gmail][gmail-img]][gmail]
 
