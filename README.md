@@ -8,8 +8,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Titan+One&size=50&pause=40&color=FD3412&vCenter=true&width=600&height=70&lines=Falcon;Data+Engineering;Data+Analysis)](https://git.io/typing-svg)
  -->
 
-### :pushpin: Hi, I'm Artemii. I'm experienced in interpreting and analyzing data to drive growth for a banks, finance, retail companies. Furnish insights, analytics, and business intelligence needed to guide decisions.
-Currently I'm Data Engineeer in Bank. 
+### :pushpin: Hi, I'm Egor. 
+Currently I'm Data Engineeer in the Bank. 
 
 <img align='left' height='210' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
 
@@ -23,35 +23,14 @@ Currently I'm Data Engineeer in Bank.
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,figma,gitlab,grafana,linkedin,matlab,ps,linux" />
+    <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,linux" />
   </a>
 </p>
 
 <img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
 
-## Contact Me
-
-[![LinkedIn][1.2]][1] [![Telegram][2.2]][2] [![Gmail][3.2]][3] [![Reddit][4.2]][4]
-
-[1.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/linkedin.png
-[2.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/telegram1.png
-[3.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/gmail.png
-[4.2]: https://github.com/ArtieFalcon/ArtieFalcon/blob/main/assets/reddit.png
-
-[1]: https://www.linkedin.com/in/artemiy-s-708111210
-[2]: https://telegram.me/xxxagtx
-[3]: mailto:sokolartemy@gmail.com
-[4]: https://www.reddit.com/user/ArtieFalcon/
 
 
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [SQL Optimization](https://habr.com/ru/sandbox/184840/)
-<!-- BLOG-POST-LIST:END -->
-
-  <summary><b>:gear: &nbsp;Git statistics</b></summary>
 
  ![](./profile-3d-contrib/profile-night-rainbow.svg)
  
