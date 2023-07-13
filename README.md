@@ -31,9 +31,9 @@ Currently I'm Data Engineeer in the Bank.
 [![Gmail][gmail-img]][gmail]
 [![VK][vk-img]][vk]
 
-[telegram-img]:  https://github.com/egor501123/egor501123/blob/main/telegram.png
+[telegram-img]:  https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [telegram]: https://t.me/egorkab
-[gmail-img]: https://github.com/egor501123/egor501123/blob/main/gmail.png
+[gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail]: mailto:bugakov.egor@gmail.com
 [vk-img]: https://github.com/egor501123/egor501123/blob/main/vk.png
 [vk]: https://vk.com/id188735639
