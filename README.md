@@ -50,19 +50,7 @@ Currently I'm Data Engineeer in the Bank.
 
 
 
-<hr>
-<p align="center">
-   <i>“Experience is a hard teacher because she gives the test first, the lesson afterwards.”</i>
-   <br>
-   <i>―Vernon Sanders Law</i>
-   <br>
-</p>      
 
- 
-<!--Animated text with snowflakes
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ArtieFalcon/ArtieFalcon/main/name.svg" alt="Data Engineering" />
-</h1>
  -->
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=12&animation=fadeIn&fontAlignY=76&TextColor=FD3412"/>
