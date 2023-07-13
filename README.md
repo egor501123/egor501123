@@ -26,17 +26,15 @@ Currently I'm Data Engineeer in the Bank.
     <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,linux" />
   </a>
 </p>
-
+### Contact Me
 [![Telegram][telegram-img]][telegram]
 [![Gmail][gmail-img]][gmail]
-[![VK][vk-img]][vk]
 
 [telegram-img]:  https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [telegram]: https://t.me/egorkab
 [gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail]: mailto:bugakov.egor@gmail.com
-[vk-img]: https://github.com/egor501123/egor501123/blob/main/vk.png
-[vk]: https://vk.com/id188735639
+
 
 
 <img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
