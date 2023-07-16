@@ -9,7 +9,7 @@
  -->
 
 ### :pushpin: Hi, I'm Egor. 
-Currently I'm Data Engineeer in the Bank. 
+Hi, I'm Egor, a graduate of MIPT. I am interested in analytics, databases and big data. I am currently working as a data engineer in a bank 
 
 <img align='left' height='210' style="margin-left:20px" src='assets/Planning-min.gif' alt='Skills'>
 
