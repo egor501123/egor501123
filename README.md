@@ -11,7 +11,7 @@
 ### :pushpin: Hi, I'm Egor. 
 Hi, I'm Egor, a graduate of MIPT. I am interested in analytics, databases and big data. I am currently working as a data engineer in a bank 
 
-<img align='left' height='210' style="margin-left:20px" src='/main/Planning-min.gif' alt='Skills'>
+<img align='left' height='210' style="margin-left:20px" src='https://github.com/egor501123/egor501123/blob/main/Planning-min.gif' alt='Skills'>
 
 <br>
 <h2>Skills </h2>
