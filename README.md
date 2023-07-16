@@ -26,7 +26,7 @@ Hi, I'm Egor, a graduate of MIPT. I am interested in analytics, databases and bi
     <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,linux" />
   </a>
 </p>
-<img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
+
 
 ## Contact Me
 
