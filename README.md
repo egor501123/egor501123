@@ -50,3 +50,17 @@ Hi, I'm Egor, a graduate of MIPT. I am interested in analytics, databases and bi
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=12&animation=fadeIn&fontAlignY=76&TextColor=FD3412"/>
 
+
+  <div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ArtieFalcon&theme=highcontrast&cache_seconds=40000" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtieFalcon&hide=html&layout=compact&theme=highcontrast" />
+ </div>
+<br>
+
+<div align="center" width="50">
+<p><strong>
+<br> Vibing to : 🎧  </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
+</div>
