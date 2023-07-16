@@ -26,10 +26,14 @@ Currently I'm Data Engineeer in the Bank.
     <img src="https://skillicons.dev/icons?i=discord,powershell,stackoverflow,docker,linux" />
   </a>
 </p>
+### Contact Information
 
 [![Telegram][telegram-img]][telegram]
 [![Gmail][gmail-img]][gmail]
+[![WhatsApp][whatsapp-img]][whatsapp]
 
+[whatsapp-img]:  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[whatsapp]: https://api.whatsapp.com/send/?phone=79042987083&text&type=phone_number&app_absent=0
 [telegram-img]:  https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 [telegram]: https://t.me/egorkab
 [gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
