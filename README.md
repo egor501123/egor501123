@@ -45,9 +45,9 @@ Hi, I'm Egor, a graduate of MIPT. I am interested in analytics, databases and bi
 
 <div align="center" width="50">
 <p><strong>
-<br> Vibing to : 🎧  </strong></p>
+<br> I'm listening : 🎧  </strong></p>
 
-[![Spotify](https://open.spotify.com/track/44xuQEWJJd4aWSaFUrPOlA)](https://open.spotify.com/track/44xuQEWJJd4aWSaFUrPOlA) <br>
+[![Spotify](https://spotify-readme-sp-xd.vercel.app/api/spotify)](https://open.spotify.com/track/44xuQEWJJd4aWSaFUrPOlA) <br>
 
 </div>
 
