@@ -15,7 +15,7 @@ Hi, I'm Egor, a graduate of MIPT. I am interested in analytics, databases and bi
 
 <br>
 <h2>Skills </h2>
-<h3>SQL, Python, Hadoop, Impala, Airflow, SuperSet, SAS MA </h3>
+<h3>SQL, Python, Hadoop, Impala, Airflow, SuperSet </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,python,mysql,postgres,bash" />
