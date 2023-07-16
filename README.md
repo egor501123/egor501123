@@ -53,7 +53,7 @@ Hi, I'm Egor, a graduate of MIPT. I am interested in analytics, databases and bi
 
 
 
-<img align='right' height='250' style="margin-right:40px" src='assets/gif_network.gif' alt='Social Networks'>
+
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=I%20hope%20for%20fruitful%20cooperation&fontSize=12&animation=fadeIn&fontAlignY=76&TextColor=FD3412"/>
 
